@@ -1,4 +1,5 @@
 //my js code
+
 document.addEventListener("DOMContentLoaded", () => {
     const submitButton = document.querySelector("#submit");
     submitButton.addEventListener("click", formSubmit, false);
