@@ -16,6 +16,7 @@ To use this repo on your machine requires some simple steps
     Clone the repo by using the following:
 
   git clone git@github.com:Darylcosm0/code-chalnge-mini-project.git
+  
 Be patient as it creates a copy on your local machine for you.
 
 Change directory to the repo folder:
@@ -42,11 +43,10 @@ Hurray! You are one step closer to being as intelligent as Einstein.
 # Running This Application
 Running the application is very straight forward. You can use the following steps to run the app.
 
-Open terminal and run "node speed-detector.js
 *clone from app [here](git@github.com:Darylcosm0/code-chalnge-mini-project.git)
  
  *Run this command
- json-server --watch db.json
+ .json-server --watch db.json
 
  *click on the `go live` below the terminal to open your the code in browser.
  
