@@ -1,4 +1,5 @@
-characters : [
+{
+"characters" : [
     {
         "id": 1,
         "name": "Mr. Cute",
@@ -28,5 +29,6 @@ characters : [
         "name": "Mme. Panda",
         "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
         "votes": 0
-       },
+       }
 ]
+}
