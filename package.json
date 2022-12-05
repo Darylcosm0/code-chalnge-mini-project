@@ -1,0 +1,19 @@
+{
+  "name": "code-chalnge-mini-project",
+  "version": "1.0.0",
+  "description": "fetch data from local api",
+  "main": "index.js",
+  "scripts": {
+    "test": " node npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darylcosm0/code-chalnge-mini-project.git"
+  },
+  "author": "daryl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darylcosm0/code-chalnge-mini-project/issues"
+  },
+  "homepage": "https://github.com/Darylcosm0/code-chalnge-mini-project#readme"
+}

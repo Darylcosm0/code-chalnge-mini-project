@@ -6,7 +6,7 @@ html {
   body {
     min-height: 100%;
     min-width: 100%;
-    background: linear-gradient(rgb(192, 248, 255), rgb(98, 184, 19));
+    background: linear-gradient(rgb(255, 205, 192), rgb(124, 19, 184));
   }
   button {
     font-size: 10px;
