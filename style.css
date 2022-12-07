@@ -8,6 +8,9 @@ html {
     min-width: 100%;
     background: linear-gradient(rgb(255, 205, 192), rgb(124, 19, 184));
   }
+  p{
+    cursor: pointer;
+  }
   button {
     font-size: 10px;
   }
